@@ -6,7 +6,7 @@ import java.util.*
 
 class DateFormatter {
 
-    // TODO: Complete the following function
+
     fun toTextDay(day: String, month: String, year: String): String {
         return try {
             val calendar = GregorianCalendar()

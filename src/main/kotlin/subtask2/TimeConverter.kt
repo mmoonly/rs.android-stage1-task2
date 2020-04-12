@@ -2,7 +2,7 @@ package subtask2
 
 class TimeConverter {
 
-    // TODO: Complete the following function
+
     fun toTextFormat(hour: String, minute: String): String {
         val hArray = arrayOf("zero","one","two","three","four","five","six","seven","eight","nine","ten","eleven","twelve")
         val mArray = arrayOf(
